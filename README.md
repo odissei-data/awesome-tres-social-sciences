@@ -58,6 +58,7 @@ _Small introduction_
 | [Statistics Netherlands Remote Access](https://www.cbs.nl/en-gb/our-services/customised-services-microdata/microdata-conducting-your-own-research) | Netherlands | TRE  |
 | [Statistics Sweden – MONA](https://www.scb.se/en/services/ordering-data-and-statistics/ordering-microdata/mona--statistics-swedens-platform-for-access-to-microdata/) | Sweden | TRE |
 | [TSD](https://www.uio.no/english/services/it/research/sensitive-data/) | Norway | TRE |
+| [UK Longitudinal Linkage Collaboration](https://ukllc.ac.uk) | United Kingdom | TRE |
 | [Vantage6](https://distributedlearning.ai/)  | International | Federated Compute |
 | [Virtual Research Workspace](https://www.rug.nl/society-business/centre-for-information-technology/research/services/virtual-research-workspace?lang=en) | Netherlands | TRE |
 | [Wellfort](https://tiss.tuwien.ac.at/fpl/project/index.xhtml?id=1617832) | Austria | TRE |
