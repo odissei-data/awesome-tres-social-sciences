@@ -9,19 +9,25 @@ Please note that, unless otherwise stated, the resources are in English. When av
 
 If you wish to contribute, please check the [contribution guidelines](./CONTRIBUTION_GUIDELINES.md) or get in touch with [Lucas van der Meer](mailto:lucas@odissei-data.nl). 
 
-**Acknowledgments** This work is inspired by ODISSEI's [Awesome Ontologies for Social Sciences](https://github.com/FAIR-Expertise-Hub/awesome-ontologies-social-sciences) & CLARIAH's [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies).
+Acknowledgments This work is inspired by ODISSEI's [Awesome Ontologies for Social Sciences](https://github.com/FAIR-Expertise-Hub/awesome-ontologies-social-sciences) & CLARIAH's [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies).
 
-## Contents
-- [Ontologies look up services](#Ontologies-look-up-services)
+How to reference this page? 
+
+To add: from ENTRUST
+
+<!-- ## Contents
+- [ASDF](#Trusted-Research-Environments) -->
+
 
 ## Trusted Research Environments
-_Small introduction
+_Small introduction_
 | Existing infrastructures services | Geographic | Infrastructure services |
 | :---- | :---- | :---- |
+| [anDREa](https://mydre.org/) | Netherlands | TRE |
 | [Austrian Micro Data Center](https://www.statistik.at/services/tools/services/amdc-mikrodaten-fuer-die-wissenschaft) | Austria | TRE |
 | [Bianca](https://www.snic.se/resources/compute-resources/bianca/) | Sweden | TRE |
 | [BioMedIT network](https://sphn.ch/network/projects/biomedit/) | Switzerland | TRE |
-| **[CASD](https://www.casd.eu/en/)** | France | TRE |
+| [CASD](https://www.casd.eu/en/) | France | TRE |
 | [DataSHIELD](https://www.datashield.org/about/about-datashield-collated) | International | TRE component |
 | [de.NBI Cloud](https://cloud.denbi.de/) | Germany | TRE |
 | [EHDEN](https://www.ehden.eu/) | Europe | Community, TRE |
@@ -32,26 +38,28 @@ _Small introduction
 | [Federated EGA](https://ega-archive.org/federated) | Europe | TRE |
 | [FINDATA](https://findata.fi/en/)  | Finland | Permits |
 | [GAIA-X DataLoft](https://gaia-x.eu/news/latest-news/health-x-a-common-data-space-for-the-health-sector/) | Europe | TRE |
-| **[Galaxy / UseGalaxy.eu](http://www.usegalaxy.eu)** | Germany | TRE, User portal |
+| [Galaxy / UseGalaxy.eu](http://www.usegalaxy.eu) | Germany | TRE, User portal |
 | [HONEUR](https://portal.honeur.org/) | Europe | Community, TRE |
-| **[HUNT Cloud](https://www.ntnu.edu/mh/huntcloud)** | Norway | TRE |
-| **[L3S](https://www.l3s.de/en)** | Germany | TRE |
+| [HUNT Cloud](https://www.ntnu.edu/mh/huntcloud) | Norway | TRE |
+| [L3S](https://www.l3s.de/en) | Germany | TRE |
 | [LETHE project infrastructure](https://www.lethe-project.eu/deliverables-publications/) | Europe | TRE infrastructure |
 | [Medical Informatics Initiative (MII)](https://www.uk-augsburg.de/kliniken-und-institute/institut-fuer-digitale-medizin/schwerpunkte/mediz.html) | Germany | TRE |
 | [nCloud](https://www.bsc.es/supportkc/docs-ncloud/intro) | Spain | TRE |
-| **[ODISSEI Secure Supercomputer](https://odissei-data.nl/ossc/)** | Netherlands | TRE |
-| **[OSSDIP](https://ossdip.at/)** | Austria | TRE Reference architecture |
+| [ODISSEI Secure Supercomputer](https://odissei-data.nl/ossc/) | Netherlands | TRE |
+| [OSSDIP](https://ossdip.at/) | Austria | TRE Reference architecture |
 | [PANCAIM project infra](https://pancaim.eu/) | Europe | TRE infrastructure |
 | [Personal Health Train](https://www.go-fair.org/implementation-networks/overview/personal-health-train/) | International | Federated Compute |
-| **[SANE](http://www.odissei-data.nl/sane)** | Netherlands | TRE, User portal |
+| [SANE](http://www.odissei-data.nl/sane) | Netherlands | TRE, User portal |
+| [SATRE](https://dareuk.org.uk/driver-project-satre/) | United Kingdom | TRE Reference architecture |
 | [SD Services](https://research.csc.fi/sensitive-data) | Finland | TRE |
 | [SeERP](https://serp.ac.uk/)  | United Kingdom | TRE |
 | [Statistics Denmark Remote Desktop](https://remote.dst.dk/my.policy) | Denmark | TRE  |
 | [Statistics Finland – FIONA](https://www.stat.fi/tup/mikroaineistot/etakaytto\_en.html) | Finland | TRE  |
-| **[Statistics Netherlands Remote Access](https://www.cbs.nl/en-gb/our-services/customised-services-microdata/microdata-conducting-your-own-research)** | Netherlands | TRE  |
+| [Statistics Netherlands Remote Access](https://www.cbs.nl/en-gb/our-services/customised-services-microdata/microdata-conducting-your-own-research) | Netherlands | TRE  |
 | [Statistics Sweden – MONA](https://www.scb.se/en/services/ordering-data-and-statistics/ordering-microdata/mona--statistics-swedens-platform-for-access-to-microdata/) | Sweden | TRE |
-| **[TSD](https://www.uio.no/english/services/it/research/sensitive-data/)** | Norway | TRE |
+| [TSD](https://www.uio.no/english/services/it/research/sensitive-data/) | Norway | TRE |
 | [Vantage6](https://distributedlearning.ai/)  | International | Federated Compute |
+| [Virtual Research Workspace](https://www.rug.nl/society-business/centre-for-information-technology/research/services/virtual-research-workspace?lang=en) | Netherlands | TRE |
 | [Wellfort](https://tiss.tuwien.ac.at/fpl/project/index.xhtml?id=1617832) | Austria | TRE |
 
 
