@@ -1,0 +1,13 @@
+cff-version: 1.0
+message: "If you use this Awesome list, please cite it as below."
+authors:
+  - family-names: Van der Meer
+    given-names: Lucas
+    orcid: https://orcid.org/my-orcid?orcid=0000-0003-4415-678X
+ - family-names: All other applicants of the TruSSD proposal
+title: "Awesome list of Trusted Research Environments"
+version: 1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13358692
+date-released: 2024-08-22
