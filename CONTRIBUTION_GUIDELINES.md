@@ -10,18 +10,18 @@ To submit a changed version of the list ([README.md](./README.md)) with your own
 ## Formatting rules
 When editing the [list](./README.md), please:
 - Please follow the logic of the headings and the general Markdown formatting rules; you can always preview the results;
-- If you add a new category, please add a pointer to it in the table of contents; 
+<!--- If you add a new category, please add a pointer to it in the table of contents; 
 - To list a new resource, first add a link to it, then a colon (:), and then a short but informative description of the ontology; please have a look at existing entries for examples;
-- Resources should be listed alphabetically within categories;
+- Resources should be listed alphabetically within categories; -->
 - If available, also add a DOI pointing to the resource on FAIRsharing.
 For any doubt, you can also open an issue and/or send an email. 
 
 # Option 2: Create an issue
-Click on Issues and create a New Issue. A template for proposing new resources is available. Otherwise, create a blank issue, add a short and informative title, explain your suggestions in the Comments field, and submit the issue.
+Click on Issues in Github and create a New Issue. A template for proposing new resources is available. Otherwise, create a blank issue, add a short and informative title, explain your suggestions in the Comments field, and submit the issue.
 
 
 # Option 3: Send an email
-If you don't have a GitHub account, or if for any reason you prefer to send an email, please feel free to do so and contact [Angelica Maineri](mailto:angelica@odissei-data.nl).
+If you don't have a GitHub account, or if for any reason you prefer to send an email, please feel free to do so and contact [Lucas van der Meer](mailto:lucas@odissei-data.nl).
 
 # List yourself as contributor
 When you are done, please edit the [contributors list](./CONTRIBUTORS.md) and add your name, affiliation and ORCID at your own discretion.
