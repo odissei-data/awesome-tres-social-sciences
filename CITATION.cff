@@ -4,11 +4,11 @@ authors:
  - family-names: Van der Meer
    given-names: Lucas
    orcid: https://orcid.org/my-orcid?orcid=0000-0003-4415-678X
- - family-names: "Et al."
+ - family-names: Et 
+   given-names: al.
+   orcid: Unknown
 title: "Awesome list of Trusted Research Environments"
 url: "https://github.com/odissei-data/awesome-tres-social-sciences/"
 version: 1.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.13358692
+doi: 10.5281/zenodo.13358692
 date-released: 2024-08-22
