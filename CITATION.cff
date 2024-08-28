@@ -1,12 +1,10 @@
 cff-version: 1.0
 message: "If you use this Awesome list, please cite it as below."
 authors:
-  - family-names: Van der Meer
-    given-names: Lucas
-    orcid: https://orcid.org/my-orcid?orcid=0000-0003-4415-678X
- - family-names: Et al.
-   given-names:
-   orcid: 
+  - family-names: "Van der Meer"
+    given-names: "Lucas"
+    orcid: "https://orcid.org/my-orcid?orcid=0000-0003-4415-678X"
+ - family-names: "Et al."
 title: "Awesome list of Trusted Research Environments"
 url: "https://github.com/odissei-data/awesome-tres-social-sciences/"
 version: 1.0
