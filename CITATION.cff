@@ -1,13 +1,13 @@
 cff-version: 1.0.3
-message:"If you use the MRT Docker container, please cite the following."
+message: "If you use the MRT Docker container, please cite the following."
 authors:
  -name: "Humboldt-Universität zu Berlin"
-  website:https://www.linguistik.hu-berlin.de/
+  website: https://www.linguistik.hu-berlin.de/
  -family-names: Doe
-  given-names:Jane
+  given-names: Jane
   orcid: https://orcid.org/my-orcid?orcid=0000-0003-4415-678X
-title:mrt-iain-m-banks
-version:1.0.4 (Iain M. Banks)
-url:https://github.com/odissei-data/awesome-tres-social-sciences/
-repository:https://github.com/odissei-data/awesome-tres-social-sciences/
-date-released:2017-12-18
+title: mrt-iain-m-banks
+version: 1.0.4 (Iain M. Banks)
+url: https://github.com/odissei-data/awesome-tres-social-sciences/
+repository: https://github.com/odissei-data/awesome-tres-social-sciences/
+date-released: 2017-12-18
