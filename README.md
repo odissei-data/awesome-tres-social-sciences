@@ -5,17 +5,20 @@
 
 A Trusted Research Environment (TRE) is a virtual machine on which a researcher can perform analyses on sensitive data, but the data cannot leave the environment without explicit approval by the data holder. This leaves the data holder in complete control of the data, facilitating GDPR compliance. The data may be sensitive because of privacy, copyright or commercial reasons. The concept is used a lot in the social sciences. Many data holders provide their own TRE, although some TREs are data holder-agnostic. 
 
-This list was originally created as part of a [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-06;callCode=null;freeTextSearchKeyword=eosc-01-06;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) proposal, called TruSSD (Trust in Sharing Sensitive Data). The proposal intended to created a federated, transdisciplinary, and transnational ecosystem of TREs. After rejection of the proposal, [ODISSEI (the Dutch national infrastructure for the social sciences)](https://odissei-data.nl), published the list and keeps updating it.
+This list was originally created as part of a [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-06;callCode=null;freeTextSearchKeyword=eosc-01-06;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502;programmePeriod=2021%20-%202027;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) proposal, called TruSSD (Trust in Sharing Sensitive Data). The proposal intended to create a federated, transdisciplinary, and transnational ecosystem of TREs. After rejection of the proposal, [ODISSEI (the Dutch national infrastructure for the social sciences)](https://odissei-data.nl), published the list and keeps updating it.
 
-Please note that, unless otherwise stated, the resources are in English. When available, the Digital Object Identifier (DOI) assigned by [FAIRsharing](https://fairsharing.org/) is added. 
+<!-- Please note that, unless otherwise stated, the resources are in English. When available, the Digital Object Identifier (DOI) assigned by [FAIRsharing](https://fairsharing.org/) is added.  -->
 
-If you wish to contribute, please check the [contribution guidelines](./CONTRIBUTION_GUIDELINES.md) or get in touch with [Lucas van der Meer](mailto:lucas@odissei-data.nl). 
+If you wish to contribute, please check the [contribution guidelines](./CONTRIBUTION_GUIDELINES.md) or get in touch with [Lucas van der Meer](mailto:lucas@odissei-data.nl?subject=Awesome%20list%20of%20TREs). 
 
 *Acknowledgments*: This work is inspired by ODISSEI's [Awesome Ontologies for Social Sciences](https://github.com/FAIR-Expertise-Hub/awesome-ontologies-social-sciences) & CLARIAH's [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies).
 
-How to reference this page? 
+*References*: If you want to reuse the information on this page, we would appreciate a reference (more information on the [citation page](./CITATION.cff)):
 
-To add: from ENTRUST
+  [Van der Meer et al., _Awesome list of Trusted Research Environments_](https://github.com/odissei-data/awesome-tres-social-sciences/)
+
+
+<!-- To add: from ENTRUST -->
 
 <!-- ## Contents
 - [ASDF](#Trusted-Research-Environments) -->
