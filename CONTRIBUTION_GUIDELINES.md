@@ -4,7 +4,7 @@ Do you want to propose a new resource to be added to the list, or an edit/update
 # Option 1: Pull requests (PRs)
 To submit a changed version of the list ([README.md](./README.md)) with your own additions, you can work on the GitHub web interface. We recommend the following:
 - Fork this repository in your own workspace (please note: you can also do it by clicking on the little edit/pen icon on the top right side of the Markdown viewer on the GitHub web interface)
-- Commit/push your changes in that fork; please do not forget to add a short description;
+- Commit/push your changes in that fork; please do not forget to choose a category
 - Submit a pull request to the master branch of this repository.
 
 ## Formatting rules
@@ -12,8 +12,9 @@ When editing the [list](./README.md), please:
 - Please follow the logic of the headings and the general Markdown formatting rules; you can always preview the results;
 <!--- If you add a new category, please add a pointer to it in the table of contents; 
 - To list a new resource, first add a link to it, then a colon (:), and then a short but informative description of the ontology; please have a look at existing entries for examples;
-- Resources should be listed alphabetically within categories; -->
-- If available, also add a DOI pointing to the resource on FAIRsharing.
+- Resources should be listed alphabetically within categories; 
+- If available, also add a DOI pointing to the resource on FAIRsharing. -->
+- Choose a category  (TRE / TRE component / Community / Permits / User Portal / Federated Compute / TRE Infrastructure / TRE Reference Architecture)
 For any doubt, you can also open an issue and/or send an email. 
 
 # Option 2: Create an issue
