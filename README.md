@@ -13,8 +13,7 @@ If you wish to contribute, please check the [contribution guidelines](./CONTRIBU
 
 *Acknowledgments*: This work is inspired by ODISSEI's [Awesome Ontologies for Social Sciences](https://github.com/FAIR-Expertise-Hub/awesome-ontologies-social-sciences) & CLARIAH's [Awesome Ontologies for Digital Humanities](https://github.com/CLARIAH/awesome-humanities-ontologies).
 
-*References*: If you want to reuse the information on this page, we would appreciate a reference <!-- (more information on the [citation page](./CITATION.cff)) -->: [Van der Meer et al., _Awesome list of Trusted Research Environments_](https://github.com/odissei-data/awesome-tres-social-sciences/)
-
+*References*: If you want to reuse the information on this page, we would appreciate a reference <!-- (more information on the [citation page](./CITATION.cff)) -->: [Van der Meer et al., _Awesome list of Trusted Research Environments_](https://github.com/odissei-data/awesome-tres-social-sciences/) [![Zenodo](https://zenodo.org/badge/doi/10.5281/zenodo.13486412.svg)](https://zenodo.org/doi/10.5281/zenodo.13486412)
 
 <!-- To add: from ENTRUST -->
 
