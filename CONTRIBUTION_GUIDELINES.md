@@ -1,4 +1,4 @@
-# How to contribute to the Awesome Ontologies for the Social Sciences
+# How to contribute to the Awesome list of TREs for the Social Sciences
 Do you want to propose a new resource to be added to the list, or an edit/update, or did you find a mistake (e.g. a broken link) and want to report it? Please read this document! But first, thank you for investing your time in contributing to our project and sharing your knowledge!
 
 # Option 1: Pull requests (PRs)
