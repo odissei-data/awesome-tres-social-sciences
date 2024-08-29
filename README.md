@@ -24,7 +24,7 @@ If you wish to contribute, please check the [contribution guidelines](./CONTRIBU
 
 ## Trusted Research Environments
 _This Awesome list currently contains the following Trusted Research Environments:_
-| Existing infrastructures services | Geographic | Infrastructure services |
+| Existing infrastructures services | Geographic | Category |
 | :---- | :---- | :---- |
 | [anDREa](https://mydre.org/) | Netherlands | TRE |
 | [Austrian Micro Data Center](https://www.statistik.at/services/tools/services/amdc-mikrodaten-fuer-die-wissenschaft) | Austria | TRE |
