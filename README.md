@@ -1,4 +1,4 @@
-# Awesome list or Trusted Research Environments (TREs) for the Social Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome list of Trusted Research Environments (TREs) for the Social Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 *What*: A list of Trusted Research Environments throughout Europe, that are commonly in use by social scientists in Europe. 
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
